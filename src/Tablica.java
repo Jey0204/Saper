@@ -2,7 +2,7 @@ import java.util.Random;
 public class Tablica {
     int[][] tablica = new int[20][20];
     public Tablica(int iloscbomb){
-        Random rand = new Random();
+        Random rand = new Random();//f
 
         // zerowanie tablicy
         for (int s = 0; s < 20; s++) {
