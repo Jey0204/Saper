@@ -17,3 +17,6 @@ Odkrywamy pola.
 
 Odkrywamy pole z miną.
 
+![obraz](https://github.com/Jey0204/Saper01/assets/130754053/44cefbb4-1277-4b41-a8c5-1e467f6ac04d)
+
+Odkrywamy wszystkie pola i wygrywamy.
