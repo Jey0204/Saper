@@ -15,7 +15,7 @@ We discover fields.
 
 ![obraz](https://github.com/Jey0204/Saper01/assets/130754053/2681c22e-a081-4b15-92b0-c344a77f0ae2)
 
-We discover the field with a face.
+We discover the field with a mine.
 
 ![obraz](https://github.com/Jey0204/Saper01/assets/130754053/44cefbb4-1277-4b41-a8c5-1e467f6ac04d)
 
